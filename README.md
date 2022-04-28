@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @YelaniSurige
-- 👀 I’m interested in software development as well as in software testing
+- 👀 I’m interested in software testing
 - 🌱 I’m currently learning for better reach
 - 📫 How to reach me yelanidevanga@gmail.com
